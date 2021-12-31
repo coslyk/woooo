@@ -1,0 +1,24 @@
+
+name: Build
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate hosts
+        run: generate_hosts.sh
+
+      - name: Upload hosts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          curl -Lo upload.sh https://github.com/probonopd/uploadtool/raw/master/upload.sh
+          bash upload.sh hosts
