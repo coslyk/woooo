@@ -2,6 +2,19 @@
 localhost
 # Localhost (DO NOT REMOVE) End
 
+# Apkpure Start
+apkpure.com
+a.apkpure.com
+download.apkpure.com
+m.apkpure.com
+static.apkpure.com
+translate.apkpure.com
+# Apkpure End
+
+# ApkMirror Start
+apkmirror.com
+# ApkMirror End
+
 # Instagram Start
 instagram.com
 www.instagram.com

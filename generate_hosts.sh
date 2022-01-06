@@ -6,7 +6,9 @@ cat websites.txt | while read LINE; do
         echo "${LINE}" >> hosts
     else
         IP=`host -4 "${LINE}" | grep -P '\d+\.\d+\.\d+\.\d+' -o -m 1`
-        echo "$IP $LINE" >> hosts
+        if [ -n "$IP" ]; then
+            echo "$IP $LINE" >> hosts
+        fi
         sleep 0.2
     fi
 done
