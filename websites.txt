@@ -1,6 +1,3 @@
-# Localhost (DO NOT REMOVE) Start
-localhost
-# Localhost (DO NOT REMOVE) End
 
 # Apkpure Start
 apkpure.com
@@ -14,6 +11,204 @@ translate.apkpure.com
 # ApkMirror Start
 apkmirror.com
 # ApkMirror End
+
+# Bbc Start
+www.bbc.com
+fig.bbc.co.uk
+www.bbc.co.uk
+static.bbci.co.uk
+static.bbc.co.uk
+nav.files.bbci.co.uk
+ichef.bbci.co.uk
+m.files.bbci.co.uk
+feeds.bbci.co.uk
+mybbc.files.bbci.co.uk
+polling.bbc.co.uk
+search.files.bbci.co.uk
+a.files.bbci.co.uk
+gel.files.bbci.co.uk
+emp.bbc.com
+news.bbcimg.co.uk
+mybbc-analytics.files.bbci.co.uk
+ssl.bbc.co.uk
+push.api.bbci.co.uk
+search-suggest.api.bbci.co.uk
+ess.api.bbci.co.uk
+session.bbc.com
+account.bbc.com
+open.live.bbc.co.uk
+# Bbc End
+
+# Dropbox Start
+# Pending fix
+db.tt
+www.dropbox.com
+www.dualstack.dropbox-dns.com
+api.dropbox.com
+api.dualstack.dropbox-dns.com
+api.dropboxapi.com
+api-d.dropbox.com
+api.v.dropbox.com
+api-notify.dropbox.com
+aem.dropbox.com
+api-content.dropbox.com
+api-content-photos.dropbox.com
+blogs.dropbox.com
+block.dropbox.com
+block.v.dropbox.com
+bolt.dropbox.com
+client.dropbox.com
+client-cf.dropbox.com
+client.v.dropbox.com
+client-lb.dropbox.com
+client-web.dropbox.com
+d.dropbox.com
+d.v.dropbox.com
+dl.dropbox.com
+dl-web.dropbox.com
+dl-doc.dropbox.com
+dl-debug.dropbox.com
+forums.dropbox.com
+linux.dropbox.com
+m.dropbox.com
+marketing.dropbox.com
+photos.dropbox.com
+photos-1.dropbox.com
+photos-2.dropbox.com
+photos-3.dropbox.com
+photos-4.dropbox.com
+photos-5.dropbox.com
+photos-6.dropbox.com
+photos-thumb.dropbox.com
+photos-thumb.x.dropbox.com
+paper.dropbox.com
+status.dropbox.com
+snapengage.dropbox.com
+dl.dropboxusercontent.com
+www.dropboxstatic.com
+cfl.dropboxstatic.com
+cf.dropboxstatic.com
+dbxlocal.dropboxstatic.com
+log.getdropbox.com
+# Dropbox End
+
+# Facebook Start
+www.facebook.com
+fb.me
+facebook.com
+api.facebook.com
+apps.facebook.com
+attachments.facebook.com
+business.facebook.com
+bigzipfiles.facebook.com
+code.facebook.com
+check4.facebook.com
+check6.facebook.com
+connect.facebook.com
+d.facebook.com
+developers.facebook.com
+graph.facebook.com
+l.facebook.com
+login.facebook.com
+m.facebook.com
+mtouch.facebook.com
+mqtt.facebook.com
+mqtt-mini.facebook.com
+orcart.facebook.com
+pixel.facebook.com
+scontent.facebook.com
+ssl.facebook.com
+star.facebook.com
+secure.facebook.com
+staticxx.facebook.com
+touch.facebook.com
+upload.facebook.com
+vupload.facebook.com
+vupload2.facebook.com
+api-read.facebook.com
+b-api.facebook.com
+b-graph.facebook.com
+s-static.facebook.com
+zh-cn.facebook.com
+zh-tw.facebook.com
+edge-chat.facebook.com
+0-edge-chat.facebook.com
+1-edge-chat.facebook.com
+2-edge-chat.facebook.com
+3-edge-chat.facebook.com
+4-edge-chat.facebook.com
+5-edge-chat.facebook.com
+6-edge-chat.facebook.com
+channel-ecmp-05-ash3.facebook.com
+channel-staging-ecmp-05-ash3.facebook.com
+channel-testing-ecmp-05-ash3.facebook.com
+beta-chat-01-05-ash3.facebook.com
+s-static.ak.facebook.com
+star.c10r.facebook.com
+fbcdn.net
+connect.facebook.net
+ent-a.xx.fbcdn.net
+ent-b.xx.fbcdn.net
+ent-c.xx.fbcdn.net
+ent-d.xx.fbcdn.net
+ent-e.xx.fbcdn.net
+scontent.xx.fbcdn.net
+scontent-a.xx.fbcdn.net
+scontent-b.xx.fbcdn.net
+scontent-c.xx.fbcdn.net
+scontent-d.xx.fbcdn.net
+scontent-e.xx.fbcdn.net
+scontent-mxp.xx.fbcdn.net
+scontent-a-lax.xx.fbcdn.net
+scontent-a-sin.xx.fbcdn.net
+scontent-b-lax.xx.fbcdn.net
+scontent-b-sin.xx.fbcdn.net
+static.thefacebook.com
+attachment.fbsbx.com
+messenger.com
+www.messenger.com
+0-edge-chat.messenger.com
+1-edge-chat.messenger.com
+2-edge-chat.messenger.com
+3-edge-chat.messenger.com
+4-edge-chat.messenger.com
+5-edge-chat.messenger.com
+6-edge-chat.messenger.com
+snaptu-z.facebook.com
+snaptu-p1.facebook.com
+snaptu-p2.facebook.com
+edge-mqtt.facebook.com
+instantarticles.fb.com
+live.fb.com
+managingbias.fb.com
+nonprofits.fb.com
+rightsmanager.fb.com
+techprep.fb.com
+work.fb.com
+static.xx.fbcdn.net
+scontent-lax3-1.xx.fbcdn.net
+scontent-lax3-2.xx.fbcdn.net
+scontent-lax3-3.xx.fbcdn.net
+scontent-lax3-4.xx.fbcdn.net
+scontent-hkg3-1.xx.fbcdn.net
+scontent-hkg3-2.xx.fbcdn.net
+scontent-hkg3-3.xx.fbcdn.net
+z-1-scontent.xx.fbcdn.net
+video-lax3-1.xx.fbcdn.net
+video-lax3-2.xx.fbcdn.net
+video-lax3-3.xx.fbcdn.net
+video-lax3-4.xx.fbcdn.net
+video-mrs1-1.xx.fbcdn.net
+video-mrs1-2.xx.fbcdn.net
+video-mrs1-3.xx.fbcdn.net
+video-mrs1-4.xx.fbcdn.net
+video-hkg3-1.xx.fbcdn.net
+video-sit4-1.xx.fbcdn.net
+external.xx.fbcdn.net
+messengerplatform.fb.com
+threatexchange.fb.com
+video.xx.fbcdn.net
+# Facebook End
 
 # GitHub Start
 gist.github.com
@@ -36,6 +231,21 @@ raw.githubusercontent.com
 repository-images.githubusercontent.com
 user-images.githubusercontent.com
 # GitHub End
+
+# Gmail Start
+gmail.com
+www.gmail.com
+googlemail.l.google.com
+mail-settings.google.com
+m.gmail.com
+m.googlemail.com
+gmail.google.com
+mail.google.com
+inbox.google.com
+chatenabled.mail.google.com
+filetransferenabled.mail.google.com
+isolated.mail.google.com
+# Gmail End
 
 # Instagram Start
 instagram.com
