@@ -6,6 +6,8 @@ download.apkpure.com
 m.apkpure.com
 static.apkpure.com
 translate.apkpure.com
+api.pureapk.com
+tapi.pureapk.com
 # Apkpure End
 
 # ApkMirror Start
