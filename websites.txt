@@ -384,6 +384,14 @@ scontent-sin6-1.cdninstagram.com
 scontent-sin6-2.cdninstagram.com
 # Instagram End
 
+# Mozilla Start
+addons.mozilla.org
+# Mozilla End
+
+# Rust Start
+www.rust-lang.org
+# Rust End
+
 # Spiegel Start
 www.spiegel.de
 cdn.prod.www.spiegel.de
