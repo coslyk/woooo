@@ -448,3 +448,6 @@ ug.wikipedia.org
 ug.m.wikipedia.org
 #upload.wikimedia.org
 # Wikipedia End
+
+# bimiacg
+yun.66dm.net
