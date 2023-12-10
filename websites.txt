@@ -448,3 +448,10 @@ ug.wikipedia.org
 ug.m.wikipedia.org
 #upload.wikimedia.org
 # Wikipedia End
+
+# iyf
+static.jssp.tv
+chat.jssp.tv
+app-m10.jssp.tv
+upload.jssp.tv
+rankv21.jssp.tv
